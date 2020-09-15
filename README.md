@@ -9,7 +9,7 @@ Topics:
 
 ## Instructions
 
-### Task 1: Project Set-up
+### Task 1: Project Set- up
 
 * [ ] **Fork** this repository, then clone your fork.
 * [ ] **NOTE** You have 2 servers that you will be running here so read these instructions carefully.
